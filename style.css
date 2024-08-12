@@ -1,0 +1,18 @@
+#our{
+    font-size: 40px;
+    font-weight: 700;
+    position: relative;
+    top:30px;
+    text-align: center;
+}
+span{
+    position: relative;
+    left:70px;
+    top:20px;
+}
+p{
+    position: relative;
+    top: 40px;
+    left:20px;
+    justify-content: space-between;
+}
